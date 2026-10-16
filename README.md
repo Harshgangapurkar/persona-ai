@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Persona AI — multi-provider starter
 
 A React + Vite frontend and FastAPI backend with explicit provider selection and distinct preset personalities.
@@ -64,3 +65,6 @@ Set `FRONTEND_ORIGIN` on the backend to your exact frontend origin. Set `VITE_AP
 - Use provider-native SDK adapters where compatibility or auth flows require them.
 - Verify current provider model names, terms, account access, and billing before production.
 - Never expose provider keys in URLs, frontend logs, error traces, or source control.
+=======
+# persona-ai
+>>>>>>> 614dce7a78cf5a3c1827129bac2706bae6bde0f7
